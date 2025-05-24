@@ -5,8 +5,8 @@
 ```bash
 $ pkg install python3
 $ pkg install git
-$ git clone https://github.com/RKBWMODS/
-$ cd
+$ git clone https://github.com/RKBWMODS/Free-Followers
+$ cd Free-Followers
 $ pip install pycryptodome
 $ pip install instaloader
 $ pip install requests
